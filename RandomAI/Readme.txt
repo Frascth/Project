@@ -1,2 +1,7 @@
 RandomAI 2016
-- dibuat dengan C# Visual Studio Code
+Dibuat dengan C# Visual Studio Code
+
+Daftar file yang harus ada:
+- folder "Acak Bangku"
+- folder "Acak Kelompok"
+- textfile "NameList"
