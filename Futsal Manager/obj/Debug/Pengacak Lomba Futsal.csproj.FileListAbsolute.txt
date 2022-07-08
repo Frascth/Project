@@ -1,0 +1,22 @@
+c:\users\trifall\documents\visual studio 2015\Projects\Pengacak Lomba Futsal\Pengacak Lomba Futsal\bin\Debug\Pengacak Lomba Futsal.exe.config
+c:\users\trifall\documents\visual studio 2015\Projects\Pengacak Lomba Futsal\Pengacak Lomba Futsal\bin\Debug\Pengacak Lomba Futsal.exe
+c:\users\trifall\documents\visual studio 2015\Projects\Pengacak Lomba Futsal\Pengacak Lomba Futsal\bin\Debug\Pengacak Lomba Futsal.pdb
+c:\users\trifall\documents\visual studio 2015\Projects\Pengacak Lomba Futsal\Pengacak Lomba Futsal\bin\Debug\MaterialSkin.dll
+c:\users\trifall\documents\visual studio 2015\Projects\Pengacak Lomba Futsal\Pengacak Lomba Futsal\obj\Debug\Pengacak_Lomba_Futsal.Form1.resources
+c:\users\trifall\documents\visual studio 2015\Projects\Pengacak Lomba Futsal\Pengacak Lomba Futsal\obj\Debug\Pengacak_Lomba_Futsal.Properties.Resources.resources
+c:\users\trifall\documents\visual studio 2015\Projects\Pengacak Lomba Futsal\Pengacak Lomba Futsal\obj\Debug\Pengacak Lomba Futsal.csproj.GenerateResource.Cache
+c:\users\trifall\documents\visual studio 2015\Projects\Pengacak Lomba Futsal\Pengacak Lomba Futsal\obj\Debug\Pengacak Lomba Futsal.exe
+c:\users\trifall\documents\visual studio 2015\Projects\Pengacak Lomba Futsal\Pengacak Lomba Futsal\obj\Debug\Pengacak Lomba Futsal.pdb
+C:\Users\Trifall\documents\visual studio 2015\Projects\Pengacak Lomba Futsal\Pengacak Lomba Futsal\obj\Debug\Pengacak Lomba Futsal.csprojResolveAssemblyReference.cache
+C:\Users\Trifalezio\Documents\Visual Studio 2017\Project\Pengacak Lomba Futsal\Pengacak Lomba Futsal\bin\Debug\Pengacak Lomba Futsal.exe.config
+C:\Users\Trifalezio\Documents\Visual Studio 2017\Project\Pengacak Lomba Futsal\Pengacak Lomba Futsal\bin\Debug\Pengacak Lomba Futsal.exe
+C:\Users\Trifalezio\Documents\Visual Studio 2017\Project\Pengacak Lomba Futsal\Pengacak Lomba Futsal\bin\Debug\Pengacak Lomba Futsal.pdb
+C:\Users\Trifalezio\Documents\Visual Studio 2017\Project\Pengacak Lomba Futsal\Pengacak Lomba Futsal\bin\Debug\MaterialSkin.dll
+C:\Users\Trifalezio\Documents\Visual Studio 2017\Project\Pengacak Lomba Futsal\Pengacak Lomba Futsal\obj\Debug\Pengacak Lomba Futsal.csprojAssemblyReference.cache
+C:\Users\Trifalezio\Documents\Visual Studio 2017\Project\Pengacak Lomba Futsal\Pengacak Lomba Futsal\obj\Debug\Pengacak_Lomba_Futsal.Form1.resources
+C:\Users\Trifalezio\Documents\Visual Studio 2017\Project\Pengacak Lomba Futsal\Pengacak Lomba Futsal\obj\Debug\Pengacak_Lomba_Futsal.Properties.Resources.resources
+C:\Users\Trifalezio\Documents\Visual Studio 2017\Project\Pengacak Lomba Futsal\Pengacak Lomba Futsal\obj\Debug\Pengacak Lomba Futsal.csproj.GenerateResource.cache
+C:\Users\Trifalezio\Documents\Visual Studio 2017\Project\Pengacak Lomba Futsal\Pengacak Lomba Futsal\obj\Debug\Pengacak Lomba Futsal.csproj.CoreCompileInputs.cache
+C:\Users\Trifalezio\Documents\Visual Studio 2017\Project\Pengacak Lomba Futsal\Pengacak Lomba Futsal\obj\Debug\Pengacak Lomba Futsal.csproj.CopyComplete
+C:\Users\Trifalezio\Documents\Visual Studio 2017\Project\Pengacak Lomba Futsal\Pengacak Lomba Futsal\obj\Debug\Pengacak Lomba Futsal.exe
+C:\Users\Trifalezio\Documents\Visual Studio 2017\Project\Pengacak Lomba Futsal\Pengacak Lomba Futsal\obj\Debug\Pengacak Lomba Futsal.pdb
